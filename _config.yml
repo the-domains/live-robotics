@@ -1,0 +1,14 @@
+layout_spectrum: 0.08199713099747896
+typography_spectrum: 0.21758221765048802
+color:
+  brandStrength: 0.9011368732899427
+  lightness: 0.3083939750213176
+  saturation: 0.341607911279425
+  rhythmicContrast: 0.10598964197561145
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: live robotics
